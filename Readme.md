@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Владимир Христофоров](https://up.htmlacademy.ru/ecmascript/15/user/1124561).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Корякин](https://up.htmlacademy.ru/ecmascript/15/user/368101).
 
 ---
 
